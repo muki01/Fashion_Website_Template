@@ -14,11 +14,11 @@ Fashion Website Template gets updates with new features, improvements, and bugfi
 Be sure to check out the [changelog here]().
 
 ## This is Main Page
-<!-- ![a](https://user-images.githubusercontent.com/75759731/196291986-373a1e01-82f3-4eab-8a86-7063580fc50e.jpeg) -->
+![d](https://user-images.githubusercontent.com/75759731/196535416-e2b965b1-a2f3-46d3-8110-e9568250cf27.jpeg)
 
 <br>
 <br>
 <br>
 
 ## This is one of Menus
-<!-- ![b](https://user-images.githubusercontent.com/75759731/196292207-c7ce88ae-ece6-4a0b-97c0-49e9bde86996.jpeg) -->
+![e](https://user-images.githubusercontent.com/75759731/196535410-39585563-5b3a-4f68-a428-c38dd8280311.jpeg)
